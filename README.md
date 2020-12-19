@@ -1,2 +1,2 @@
 # CI-with-Jenkins-in-GCP-Demo
-Test CI demo
+Test CI demo for Sprint3
